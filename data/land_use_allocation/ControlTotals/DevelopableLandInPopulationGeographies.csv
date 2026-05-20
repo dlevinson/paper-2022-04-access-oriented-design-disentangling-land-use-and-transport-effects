@@ -1,0 +1,18 @@
+LOC_PID,NSW_LOCA_2,LGA_NAME16,Split_id,merge_id,Pop_2016,Pop_BuildO,LGA_CODE16,TZ16_CODE,Precinct,Sub-precin,Area,layer,path,Area_sqm
+NSW3451,ROSSMORE,Liverpool (C),"140","372","1739","13944","14900",,,,,,,9863958.7723708376
+NSW4137,WALLACIA,Liverpool (C),"231","372","246","474","14900",,,,,,,6722218.3624610109
+NSW1777,GREENDALE,Liverpool (C),"269","372","345","341","14900",,,,,,,31434323.9212272577
+NSW130,BADGERYS CREEK,Liverpool (C),"372","372","213","170","14900",,,,,,,7140850.6380435135
+NSW2118,KEMPS CREEK,Liverpool (C),"414","372","1498","8379","14900",,,,,,,8689627.9525491297
+NSW2441,LUDDENHAM,Liverpool (C),"573","372","576","431","14900",,,,,,,8704508.8106815815
+NSW582,BRINGELLY,Liverpool (C),"633","372","1965","14179","14900",,,,,,,14148810.7380000260
+NSW880,CECIL PARK,Liverpool (C),"687","372","332","2908","14900",,,,,,,1036212.5665760578
+,,Penrith (C),,,"315","2993","16350","4967",Aerotropolis,Northern Gateway,,CoD_ToMerge,/Users/hemarayaprolu/Dropbox (Sydney Uni)/Analysis/iMove : Liverpool Project/LandUseAllocation/CoD_ToMerge.shp|layername=CoD_ToMerge,1152.4603018840
+,,Penrith (C),,,"1544","1779","16350","4969",Aerotropolis,Agriculture and Agribusiness,,CoD_ToMerge,/Users/hemarayaprolu/Dropbox (Sydney Uni)/Analysis/iMove : Liverpool Project/LandUseAllocation/CoD_ToMerge.shp|layername=CoD_ToMerge,97851.7729572422
+,,Penrith (C),,,"18","11","16350","4983",Aerotropolis,Northern Gateway,,CoD_ToMerge,/Users/hemarayaprolu/Dropbox (Sydney Uni)/Analysis/iMove : Liverpool Project/LandUseAllocation/CoD_ToMerge.shp|layername=CoD_ToMerge,1129.6395634987
+,,Penrith (C),,,"217","224","16350","3482",Aerotropolis,Kemps Creek,,CoD_ToMerge,/Users/hemarayaprolu/Dropbox (Sydney Uni)/Analysis/iMove : Liverpool Project/LandUseAllocation/CoD_ToMerge.shp|layername=CoD_ToMerge,20.3558824893
+,,Penrith (C),,,"1248","1287","16350","3483",Mount Vernon,Mount Vernon,,CoD_ToMerge,/Users/hemarayaprolu/Dropbox (Sydney Uni)/Analysis/iMove : Liverpool Project/LandUseAllocation/CoD_ToMerge.shp|layername=CoD_ToMerge,5.1807727242
+,,Camden (A),,"1178","11012","93991","11450",,,,Catherine Field - Leppington - Gledswood Hills - Gregory Hills,Fid_ControlTotals_filtered,/Users/hemarayaprolu/Dropbox (Sydney Uni)/Analysis/iMove : Liverpool Project/LandUseAllocation/Fid_ControlTotals_filtered.shp|layername=Fid_ControlTotals_filtered,1334.6500727470
+,,Wollondilly (A),,"230","5337","7248","18400",,,,Wallacia - Warragamba - Silverdale,Fid_ControlTotals_filtered,/Users/hemarayaprolu/Dropbox (Sydney Uni)/Analysis/iMove : Liverpool Project/LandUseAllocation/Fid_ControlTotals_filtered.shp|layername=Fid_ControlTotals_filtered,70.4223746949
+,,Liverpool (C),,"285","3110","69049","14900",,,,Austral,Fid_ControlTotals_filtered,/Users/hemarayaprolu/Dropbox (Sydney Uni)/Analysis/iMove : Liverpool Project/LandUseAllocation/Fid_ControlTotals_filtered.shp|layername=Fid_ControlTotals_filtered,14859985.3532673288
+,,Camden (A),,"135","9936","70791","11450",,,,Grasmere - Ellis Lane - Cawdor - Bickley Vale - Cobbitty Hills - Oran Park - Bringelly - Rossmore,Fid_ControlTotals_filtered,/Users/hemarayaprolu/Dropbox (Sydney Uni)/Analysis/iMove : Liverpool Project/LandUseAllocation/Fid_ControlTotals_filtered.shp|layername=Fid_ControlTotals_filtered,138.1908609161
