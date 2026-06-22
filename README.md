@@ -1,5 +1,9 @@
 # 2022-04 Access-Oriented Design
 
+## Contribution
+
+This paper develops access-oriented design as a way to evaluate urban form by how readily residents can reach opportunities. Through generic superblock experiments and a Liverpool, Sydney case study, it separates the effects of land-use allocation and street-network configuration, showing that land use dominates local access while network design becomes especially important at the regional scale.
+
 This package supports:
 
 Lahoorpoor, B., Rayaprolu, H., Wu, H., & Levinson, D. M. (2022). Access-oriented design? Disentangling the effect of land use and transport network on accessibility. Transportation Research Interdisciplinary Perspectives, 13, 100536. https://doi.org/10.1016/j.trip.2021.100536
