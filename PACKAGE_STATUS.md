@@ -1,6 +1,6 @@
 # Package Status: Access-Oriented Design? Disentangling Land Use And Transport Effects
 
-Generated: 2026-05-20 15:23:47 AEST
+Generated: 2026-07-01 AEST
 
 ## Audit State
 
@@ -24,6 +24,7 @@ Generated: 2026-05-20 15:23:47 AEST
 
 ## Upload Boundary
 
+- Mixed license boundary: MIT for author-created code and scripts, CC BY 4.0 for repository-created documentation and derived data, and original terms for `paper/` PDFs and any third-party source material.
 - Use `PACKAGE_MANIFEST.csv` as the upload checklist.
 - Treat files under `paper/` as local reference copies unless rights review explicitly clears them.
 - Confirm finality and license before repository creation.
